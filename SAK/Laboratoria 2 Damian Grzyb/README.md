@@ -1,1 +1,1 @@
-
+![Podgląd zegara](zegar.png)
